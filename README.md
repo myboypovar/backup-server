@@ -35,7 +35,7 @@ The Cross-Platform Backup System is a secure file transfer application that enab
 - Enhance logging and monitoring capabilities.
 
 ## License
-MIT
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributors
 - @Leon Gold
